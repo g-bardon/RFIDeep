@@ -1,0 +1,7 @@
+rfid_format:A 00000 0 000 000000000000
+rfid_format:R 0000 0000000000000000
+rfid_packing:Bepantene
+rfid_packing:Betadine
+rfid_packing:Vaseline
+rfid_desinfectant:Salvanios
+rfid_desinfectant:Dakin

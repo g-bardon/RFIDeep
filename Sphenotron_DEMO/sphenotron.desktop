@@ -1,0 +1,9 @@
+# Copy this file to /usr/share/applications/ and make it executable
+# Copy the sphenotron.svg file to /usr/share/icons/hicolor/scalable/apps/
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/robin/sphenotron/sphenotron_launcher.sh
+Name=Sphenotron
+Icon=/usr/share/icons/hicolor/scalable/apps/sphenotron.svg

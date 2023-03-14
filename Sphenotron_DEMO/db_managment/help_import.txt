@@ -1,0 +1,22 @@
+To import data from CSV files, please read this documentation.
+
+1) Choose a type of import
+	- New pit-tagged birds allows importation of new birds with new RFID numbers and the data associated with the pit-tagging (Puli manipulation or Pit-tagging-E/L manipulation for Crozet ; Cohorte manipulation for DDU)
+	- Fish-tagged birds allows importation of fish-tagged birds that are already in the database (pit-tagged birds) or new birds never pit-tagged (with RFID nomenclature A 99999 9% see below)
+	- Data of already pit-tagged birds for birds that are in the database 
+
+2) Choose the column headers above the table according to the first row of the table.
+
+3) Check that the table corresponds to the csv file and check if each cell is well formated
+
+4) Click on CHECK TABLE button to run the automatic checking
+
+5) If the checking window appears, click on OK if all cells are valid to unlock SAVE button.
+
+6) Click on SAVE to run IMPORT
+ 
+
+Nomenclature for the RFID of fish-tagged birds in BDM that were never pit-tagged :
+A 99999 9 001 1100 + fish-tagging year + birth state (E/I/L -> 0/1/2) + fish-tag number
+
+Example: KIN-BDM-2014-E-850 -> A 99999 9 001 110020140850
