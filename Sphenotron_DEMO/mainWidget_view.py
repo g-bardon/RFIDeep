@@ -1848,7 +1848,7 @@ class Ui_Widget(object):
         self.check_table_add_birds_csv_button.setText(_translate("Widget", "CHECK TABLE"))
         self.save_table_add_birds_csv_button.setText(_translate("Widget", "SAVE"))
         self.db_managment_tabWidget.setTabText(self.db_managment_tabWidget.indexOf(self.tab), _translate("Widget", "Import data"))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.db_managmentTab), _translate("Widget", "Database Managment"))
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.db_managmentTab), _translate("Widget", "Database Management"))
         self.groupBox.setTitle(_translate("Widget", "Preferences"))
         self.dark_modeButton.setText(_translate("Widget", "Dark mode"))
         self.groupBox_2.setTitle(_translate("Widget", "Tools"))
