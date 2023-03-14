@@ -1,6 +1,6 @@
-database:antavia_new_cro_2023
+database:antavia_cro_sample
 host:localhost
 user:root
-password:Lfspsltdmgp97
+password:
 port:3307
 unix_socket:
