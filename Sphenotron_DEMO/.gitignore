@@ -1,0 +1,4 @@
+/mysql_connection/config.txt
+/_pycache_/
+*.pyc
+/.idea

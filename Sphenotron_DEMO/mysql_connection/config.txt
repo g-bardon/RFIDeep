@@ -1,6 +1,6 @@
 database:antavia_cro_sample
 host:localhost
 user:root
-password:root
+password:
 port:3306
 unix_socket:
